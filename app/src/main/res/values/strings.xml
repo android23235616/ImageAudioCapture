@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImageAudioCapture</string>
+    <string name="title_activity_audio_capture">AudioCapture</string>
+</resources>
